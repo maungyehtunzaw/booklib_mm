@@ -1,0 +1,241 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]>    <html class="no-js oldie ie7 ie" lang="en-US" > <![endif]-->
+<!--[if IE 8]>    <html class="no-js oldie ie8 ie" lang="en-US" > <![endif]-->
+<!--[if IE 9 ]>   <html class="no-js       ie9 ie" lang="en-US" > <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en-US" > <!--<![endif]-->
+<head>
+<!-- This site uses the WordPress Twitter Bootstrap CSS plugin v3.1.1-1 from iControlWP http://icwp.io/w/ -->
+<link rel="stylesheet" type="text/css" href="http://nexgentec.com/wp-content/plugins/wordpress-bootstrap-css/resources/bootstrap-3.1.1/css/bootstrap.css" />
+<!-- / WordPress Twitter Bootstrap CSS Plugin from iControlWP. -->
+        <meta charset="UTF-8" >
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        
+        <title>Page not found | NexgenTec LLC | Providing Reliable IT Solutions</title>
+            
+        <!-- devices setting -->
+        <meta name="viewport"           content="initial-scale=1,user-scalable=no,width=device-width">
+	    
+        <meta name="author"             content="">
+	
+        <!-- feeds, pingback -->
+        <link rel="profile"             href="http://gmpg.org/xfn/11" />
+        <link rel="alternate"           href="http://nexgentec.com/feed/" type="application/rss+xml" title="NexgenTec LLC | Providing Reliable IT Solutions RSS2 Feed" />  
+        <link rel="pingback"            href="http://nexgentec.com/xmlrpc.php" />
+                
+        <link rel="stylesheet"          href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' >
+
+        <!-- enables HTML5 elements & feature detects -->
+        <script src="http://nexgentec.com/wp-content/themes/lotus/js/libs/modernizr-2.6.2.min.js"></script>
+    
+<!-- outputs by wp_head -->
+<meta name='robots' content='noindex,follow' />
+<link rel="alternate" type="application/rss+xml" title="NexgenTec LLC | Providing Reliable IT Solutions &raquo; Feed" href="http://nexgentec.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NexgenTec LLC | Providing Reliable IT Solutions &raquo; Comments Feed" href="http://nexgentec.com/comments/feed/" />
+<link rel='stylesheet' id='jetpack-subscriptions-css'  href='http://nexgentec.com/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css?ver=3.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='http://nexgentec.com/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900|Open+Sans:300|Indie+Flower:regular|Oswald:300,regular,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://nexgentec.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cuteslider-css'  href='http://nexgentec.com/wp-content/plugins/cuteslider/css/cuteslider.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-settings-css'  href='http://nexgentec.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=3.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-captions-css'  href='http://nexgentec.com/wp-content/plugins/revslider/rs-plugin/css/captions.css?ver=3.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://nexgentec.com/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-base-css'  href='http://nexgentec.com/wp-content/themes/lotus/css/base.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-main-css'  href='http://nexgentec.com/wp-content/themes/lotus/css/main.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://nexgentec.com/wp-content/themes/lotus/css/other/superfish.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-resp-css'  href='http://nexgentec.com/wp-content/themes/lotus/css/responsive.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-fonts-css'  href='http://nexgentec.com/wp-content/themes/lotus/css/fonts.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-stylesheet-css'  href='http://nexgentec.com/wp-content/themes/lotus/style.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://nexgentec.com/wp-content/themes/lotus/css/other/prettyPhoto.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jplayer-css'  href='http://nexgentec.com/wp-content/themes/lotus/css/other/jplayer/jplayer.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='userdefined-css'  href='http://nexgentec.com/wp-content/themes/lotus/css/other/custom.css?ver=11' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_typography-css'  href='http://fonts.googleapis.com/css?family=Roboto:300,300italic,regular,italic,500,500italic,700,700italic,900,900italic,|Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic,|Ubuntu:300,300italic,regular,italic,500,500italic,700,700italic,' type='text/css' media='all' />
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/libs/jquery-1.9.1.min.js?ver=3.8.5'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.0.2'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.0.2'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=3.8.5'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/libs/plugins/jquery.easing.min.js?ver=1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nexgentec.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nexgentec.com/wp-includes/wlwmanifest.xml" /> 
+<style type='text/css'>img#wpstats{display:none}</style><!-- end wp_head -->
+
+<!--[if IE 7]>
+    <link rel="stylesheet"      href="http://nexgentec.com/wp-content/themes/lotus/css/ie7.css?ver=3.0" type="text/css" media="screen"/>
+<![endif]-->
+
+ 
+
+<!-- custom styles for plugins -->
+<link rel="stylesheet"  href="http://nexgentec.com/wp-content/themes/lotus/css/other/overwrite.css?ver=1.5" type="text/css" media="screen"/>
+
+ 
+    
+<!-- Media query for old IE
+[if lt IE 9]><script src="http://nexgentec.com/wp-content/themes/lotus/js/libs/modules/css3-mediaqueries.js"></script><![endif]-->
+
+</head>
+
+
+
+<body class="error404" >
+<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+<div id="inner-body">
+    
+        
+    
+    <header id="siteheader" role="banner" class="wrapper">
+        <div class="container">
+	  	
+        <div id="sitetitle">
+            <div id="logo" class="fold" >
+                <div class="logo_inner">
+                    <section>
+                        <h4 class="site-title"><a href="http://nexgentec.com/" title="NexgenTec LLC | Providing Reliable IT Solutions" rel="home">NexgenTec LLC | Providing Reliable IT Solutions</a></h4>
+                        <p class="site-description">cgh</p>
+                    </section>
+                    <a href="http://nexgentec.com/" title="NexgenTec LLC | Providing Reliable IT Solutions" rel="home">
+                                                <img src="http://nexgentec.com/wp-content/uploads/2012/10/logoWeb3.png"   alt="NexgenTec LLC | Providing Reliable IT Solutions" />
+                                            </a>
+                </div><!-- end logo inner -->
+                
+                <div class="nav-toggle"><a class="icon-reorder" href="#"></a></div>
+            </div><!-- end logo fold -->
+        </div><!-- end #sitetitle -->
+
+
+<!-- start navigation -->
+<nav id="access" class="menu-main-menu-container"><ul id="menu-main-menu" class="sf-menu"><li id="menu-item-3139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3139"><a href="http://nexgentec.com/">Home</a></li>
+<li id="menu-item-3148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3148"><a>Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-3204" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-3204"><a href="http://nexgentec.com/service/it-solutions/">IT Solutions</a></li>
+	<li id="menu-item-3191" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-3191"><a href="http://nexgentec.com/service/managed-service-plans/">Managed Service Plans</a></li>
+	<li id="menu-item-3145" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-3145"><a href="http://nexgentec.com/service/network-design/">Network Design</a></li>
+</ul>
+</li>
+<li id="menu-item-3301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3301"><a href="http://nexgentec.com/support/">Support</a></li>
+<li id="menu-item-3173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3173"><a href="http://nexgentec.com/about-us/">About</a></li>
+<li id="menu-item-3176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3176"><a href="http://nexgentec.com/contact/">Contact</a></li>
+</ul></nav><!-- end navigation -->
+
+			
+        </div><!-- end of container -->
+    </header><!-- end header -->
+    
+        
+
+      
+    
+    
+        
+            
+    <div id="main" class="no-sidebar" >
+        <div class="wrapper fold clearfix">
+            
+            <div class="sep space"> </div>
+            
+            <section id="primary" >
+                <div class="content" role="main"  >
+                    
+                                                        
+                    <article class="post error404 not-found" >
+                        
+                        <div class="entry-main">
+                            
+                            <div class="entry-header">
+                                <h1>404</h1>
+                                <h2 class="entry-title">OOPS! Page Not Found ...</h2>
+                            </div>
+                            
+                            <p class="message404" >It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.</p>
+
+                            	<form method="get" id="searchform" class="searchform" action="http://nexgentec.com/">
+		<input type="text" class="field" name="s" id="s" placeholder="Search Here" value="" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+                            
+                        </div>
+
+                   </article>
+                    
+                </div><!-- end content -->
+            </section><!-- end primary -->
+            
+
+            
+            
+        </div>
+    </div><!-- end main -->
+    
+
+		
+    <footer id="sitefooter" class="wrapper" role="contentinfo" >
+        <div class="container fold">
+            
+            <ul class="socials"></ul><!-- end socials -->            
+            <div id="copyright">
+                                <small>Copyright © 2014 - NexgenTec LLC, All Rights Reserved</small>
+                            </div>
+            
+                        <!-- end navigation -->
+            
+            
+        </div><!-- end of container -->
+    </footer><!-- end sitefooter -->
+    
+    <div class="scroll2top"></div>
+
+    <script>
+            </script><!-- user custom js -->
+    
+    <!--[if (lte IE 8)]>
+    <script src="http://nexgentec.com/wp-content/themes/lotus/js/libs/polyfills/selectivizr-min.js"></script>
+    <![endif]-->
+     
+    <!-- outputs by wp_footer -->
+    	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/nexgentec.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CSSettings = {"pluginPath":"http:\/\/nexgentec.com\/wp-content\/plugins\/cuteslider"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/plugins/cuteslider/js/cute.slider.js?ver=1.1.1'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/plugins/cuteslider/js/cute.transitions.all.js?ver=1.1.1'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201504'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Janaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.8.5'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/plugins.js?ver=1.6'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/libs/hoverIntent.js?ver=r7'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/libs/superfish.js?ver=1.7.2'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/libs/plugins/jquery.prettyPhoto.js?ver=3.1.5'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/libs/plugins/jquery.fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/libs/plugins/jquery.isotope.min.js?ver=1.5.25'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/libs/plugins/jquery.touchSwipe.min.js?ver=1.3.3'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/libs/plugins/jquery.mousewheel.min.js?ver=3.0.6'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/libs/plugins/jquery.carouFredSel-6.1.0-packed.js?ver=6.1.0'></script>
+<script type='text/javascript' src='http://nexgentec.com/wp-content/themes/lotus/js/script.js?ver=1.8'></script>
+
+	<script src="http://stats.wordpress.com/e-201504.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.0.1',blog:'60600928',post:'0',tz:'0'});
+	var load_cmc = function(){linktracker_init(60600928,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>    <!-- end wp_footer -->
+    
+</div><!--! end of #inner-body -->
+</body>
+</html>

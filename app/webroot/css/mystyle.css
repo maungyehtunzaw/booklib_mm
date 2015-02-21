@@ -1,0 +1,8 @@
+.hidden
+{
+	display: none;
+}
+.headlink :hover
+{
+	text-decoration: none;
+}
